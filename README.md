@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-<!--
-**cwbeltz/cwbeltz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Hi there 👋
 My name is Chris Beltz and I am a PhD Candidate at Yale University in the School of the Environment. I am an environmental scientist, an ecologist, and an aspiring data geek. I have four years of experience programming in R.
 
 🔭 I’m currently working on analyzing data to examine the effect of changing water and nitrogen availability on how dry ecosystems function.
