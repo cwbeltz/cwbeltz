@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Chris Beltz and I am a PhD Candidate at Yale University in the School of the Environment. I am an environmental scientist, an ecologist, and an aspiring data geek. I have four years of experience programming in R.
+My name is Chris Beltz and I am a PhD Candidate at Yale University in the School of the Environment. I am an environmental scientist, an ecologist, and an aspiring data geek. I have four years of experience programming in R with some additional experience in UNIX, bash, and Python.
 
 - 🔭 I’m currently working on analyzing data to examine the effect of changing water and nitrogen availability on dry ecosystems.
 - 🌱 I’m currently learning Python and expanding my ability to conduct bioinformatic analyses on large datasets.
@@ -15,4 +15,4 @@ My name is Chris Beltz and I am a PhD Candidate at Yale University in the School
 Some past projects:
 
 - 🚆 mapping - something here [add map emoji]
-- 🚆 sagebrush - something here [add bush emoji]
+- 🚆 sagebrush - research publication examing the ability to use nitrogen fertilization in rangeland mitigation
