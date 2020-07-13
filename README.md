@@ -14,5 +14,5 @@ My name is Chris Beltz and I am a PhD Candidate at Yale University in the School
 
 Some past projects:
 
-- 🚆 mapping - something here [add map emoji]
+- 🚆 mapping - simple script for creating locus maps
 - 🚆 sagebrush - research publication examing the ability to use nitrogen fertilization in rangeland mitigation
