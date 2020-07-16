@@ -14,6 +14,6 @@ My name is [Chris Beltz](http://christopherbeltz.com) and I am a PhD Candidate a
 
 Some past projects:
 
-- 🌳 sagebrush - a [research publication](https://doi.org/10.1371/journal.pone.0206563) examing the ability to use nitrogen fertilization in rangeland mitigation
+- 🌳 sagebrush - a [research publication](https://doi.org/10.1371/journal.pone.0206563) examing the ability to use nitrogen fertilization in rangeland mitigation [(code)](https://github.com/cwbeltz/Proj.002_2014_CBeltz_Sagebrush.N.Fertilization)
 - 📜 mapping - a [simple script](https://github.com/cwbeltz/Sketch.002_Locus.Map) for creating a locus map with site locations as a PDF or PNG.
 - 📊 climate normals - a [RMarkdown file](https://github.com/cwbeltz/Sketch.001_Climate.Diagram.WL) for teaching students to calculate their own climate normals and creating a Walter-Lieth diagram using the [{climatol}](https://github.com/cran/climatol) package.
