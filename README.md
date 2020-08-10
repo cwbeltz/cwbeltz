@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is [Chris Beltz](http://christopherbeltz.com) and I am a PhD Candidate at Yale University in the School of the Environment. I am an environmental scientist, an ecologist, and an aspiring data geek. I have four years of experience programming in R with some additional experience in UNIX, bash, and Python.
+My name is [Chris Beltz](http://christopherbeltz.com). I am currently a Data Science Fellow at the National Center for Ecological Analysis & Sysnthesis (NCEAS) and also a PhD Candidate at Yale University in the School of the Environment. I am an environmental scientist, an ecologist, and an aspiring data geek. I have four years of experience programming in R with some additional experience in UNIX, bash, and Python.
 
 - 🔭 I’m currently working on analyzing data to examine the effect of changing water and nitrogen availability on dry ecosystems.
 - 🌱 I’m learning Python and expanding my ability to conduct bioinformatic analyses on large datasets.
