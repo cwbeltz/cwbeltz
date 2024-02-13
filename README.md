@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Chris Beltz. I am an environmental scientist, an ecologist, and an aspiring data geek. I started learning to program in R in 2015, and have some additional experience in UNIX/LINUX, bash/zsh, SQL, and Python (minimal but increasing!).
+I am an environmental scientist, an sustainability professional, and a huge data geek. I started learning to program in R in 2015, and have some additional experience in UNIX/LINUX, bash/zsh, SQL, and Python (minimal but increasing!).
 
 - 🔭 I’m currently working on analyzing data to examine the effect of changing water and nitrogen availability on dry ecosystems.
 - 🌱 I’m learning more about SQL, Docker, and Python by the minute.
